@@ -1,0 +1,9 @@
+{
+	"name": "adf-adamou-dev-datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7e906b37-86b5-4e77-b677-4de04a841a86",
+		"tenantId": "75e9ad32-4986-4568-b34d-686f7c70ef92"
+	}
+}
